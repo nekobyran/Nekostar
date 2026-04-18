@@ -15,7 +15,7 @@ galgame聚合搜索(本地)
 云同步(自行搭建服务器)  
 悬浮窗工具  
 ...  
-该项目使用了以下项目源码
+该项目使用了以下项目源码  
 [searchgal(galgame聚合搜索功能)](https://github.com/Moe-Sakura/SearchGal)  
 [openlist(网盘直链解析)](https://github.com/OpenListTeam/OpenList)  
 ...  
