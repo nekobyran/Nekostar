@@ -1,5 +1,5 @@
 # Nekostar(开发中)  
-//Android端:kotlin，c++ Windows端:c#,c++  
+###Android端:kotlin，c++ Windows端:c#,c++  
 Android端遵循material3设计，windows端遵循winui3设计(？)  
 一个纯vibe coding创建的应用，旨在简化娱乐资源获取，其具有以下功能  
 去中心化社区(自行搭建服务器)  
